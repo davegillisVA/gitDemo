@@ -11,7 +11,11 @@ This is the Baseline File that starts in Main Branch...
 Add your name to the agreed spot below
 1.
 2.
+<<<<<<< HEAD
+3.
+=======
 3.Dave Gillis
+>>>>>>> henry
 4.
 5.
 Repo Manager will accept the pull and Merge each branch into the Main Branch...
