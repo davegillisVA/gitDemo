@@ -1,0 +1,18 @@
+Git Practice... 20 Minutes
+Repo Manager(RM) Creates a New REPO named: scp (Sourcecode Control Practice)
+    RM Share / Invite teammates(EVR)
+    EVR Clone the Repo
+    EVR create you own branch
+    EVR checkout the baseLineFile to your branch
+    EVR Add your name to the agreed line number.
+    EVR commit the file back to your branch for a merge
+    RM Accept and Merge all pull requests to update the file in Main Branch to include all TeamMembers
+This is the Baseline File that starts in Main Branch...
+Add your name to the agreed spot below
+1.
+2.
+3.
+4.
+5.
+Repo Manager will accept the pull and Merge each branch into the Main Branch...
+Share Repo to Arin and Dave
